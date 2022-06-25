@@ -1,4 +1,4 @@
-import ReactPlayer from "react-player/toutube";
+import ReactPlayer from "react-player/youtube";
 
 export const VideoPlayer = ({ url }) => {
   return (

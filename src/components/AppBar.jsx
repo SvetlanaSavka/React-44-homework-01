@@ -1,4 +1,4 @@
-import { SearchBox } from "./components/SearchBox";
+import { SearchBox } from "./SearchBox";
 import { Logo } from "./Logo";
 import { UserMenu } from "./UserMenu";
 
